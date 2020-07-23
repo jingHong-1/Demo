@@ -7,8 +7,11 @@ public class HelloWorld(){
 		System out.println("7");
 		System out.println("1");
 		System out.println("1");
-		System out.println("1");
-		System out.println("1");
+		System out.println("q");
+		System out.println("a");
+		System out.println("c");
+		System out.println("d");
+
 
 	}
 }
